@@ -139,3 +139,14 @@ Use the waterbar-emails MCP. Call send_waterbar_email with this:
 - Real business value (actual bookings)
 - AI-driven content (drink pairings, explanations)
 - Repeatable (React Email templates = editable)
+---
+## ?? Planned Future Flows (Beyond Hackathon Demo)
+
+This repo currently showcases **Flow 1: AOI Booking Confirmation**.  
+We’ve also designed (not demoed here) additional flows:
+- ?? Hydration plan generation (Supabase ? Resend)
+- ?? On-venue orchestration (timeline + paired drinks)
+- ?? Combined experience recap (Stripe ? Resend ? Supabase)
+
+These are detailed in **docs/Confidential/APPENDIX_CASE_NOTES.md**,  
+but only Flow 1 is guaranteed to work out-of-the-box for hackathon judges.  
