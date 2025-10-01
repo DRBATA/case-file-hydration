@@ -19,7 +19,7 @@
 
 ```powershell
 # Navigate to your MCP server folder
-cd C:\Users\azamb\OneDrive\Desktop\THE.WATER.BAR\mcp-waterbar-emails
+cd ./your-project\mcp-waterbar-emails
 
 # Initialize git (if not already done)
 git init
